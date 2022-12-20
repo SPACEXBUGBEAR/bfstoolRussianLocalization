@@ -1,4 +1,4 @@
-# bfstool
+# bfstool Russian localization
 
 It's just a Russian location for [bfstool](https://github.com/xNyaDev/bfstool/)
 
